@@ -4,19 +4,19 @@ import Service from "../Items/Service";
 const servicesData = [
   {
     id: 1,
-    name: "Development",
+    name: "Geliştirme",
     content: "Lorem ipsum dolor sit amet consectetuer elit.",
     icon: "icon-globe",
   },
   {
     id: 2,
-    name: "Design",
+    name: "Tasarım",
     content: "Lorem ipsum dolor sit amet consectetuer elit.",
     icon: "icon-chemistry",
   },
   {
     id: 3,
-    name: "Advertising",
+    name: "Danışmanlık",
     content: "Lorem ipsum dolor sit amet consectetuer elit.",
     icon: "icon-directions",
   },
@@ -34,7 +34,7 @@ const servicesData = [
   },
   {
     id: 6,
-    name: "Support",
+    name: "Destek",
     content: "Lorem ipsum dolor sit amet consectetuer elit.",
     icon: "icon-bubbles",
   },

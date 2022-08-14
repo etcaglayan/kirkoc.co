@@ -8,22 +8,85 @@ const skillData = {
   progressData: [
     {
       id: 1,
-      name: "Wordpress",
-      percentage: 85,
+      name: "HTML & CSS",
+      percentage: 95,
     },
     {
       id: 2,
-      name: "HTML & CSS",
+      name: "Javascript",
       percentage: 90,
     },
     {
       id: 3,
       name: "jQuery",
-      percentage: 60,
+      percentage: 90,
     },
     {
       id: 4,
-      name: "Sketch",
+      name: "Bootstrap",
+      percentage: 70,
+    },
+    {
+      id: 5,
+      name: "Twig",
+      percentage: 70,
+    },
+    {
+      id: 6,
+      name: "Tailwind",
+      percentage: 70,
+    },
+
+    {
+      id: 7,
+      name: "Vue.js",
+      percentage: 70,
+    },
+    {
+      id: 8,
+      name: "React",
+      percentage: 70,
+    },
+    {
+      id: 9,
+      name: "AMP",
+      percentage: 70,
+    },
+    {
+      id: 10,
+      name: "PWA (Progressive Web App)",
+      percentage: 70,
+    },
+    {
+      id: 11,
+      name: "Wordpress",
+      percentage: 70,
+    },
+    {
+      id: 12,
+      name: "Drupal",
+      percentage: 70,
+    },
+    {
+      id: 13,
+      name: "Git",
+      percentage: 70,
+    },
+
+    {
+      id: 14,
+      name: "Jira",
+      percentage: 70,
+    },
+
+    {
+      id: 15,
+      name: "Photoshop / Illustrator",
+      percentage: 70,
+    },
+    {
+      id: 16,
+      name: "ASP.NET MVC",
       percentage: 70,
     },
   ],

@@ -27,14 +27,14 @@ function Homepage() {
 
       <Element name="section-about">
         <section className="shadow-blue white-bg padding">
-          <SectionHeading title="About Me" />
+          <SectionHeading title="Hakkımda" />
           <About />
         </section>
       </Element>
 
       <Element name="section-skills">
         <section className="shadow-blue white-bg padding">
-          <SectionHeading title="My skills" />
+          <SectionHeading title="Yeteneklerim" />
           <Skills />
         </section>
       </Element>
@@ -45,21 +45,21 @@ function Homepage() {
 
       <Element name="section-services">
         <section className="shadow-blue white-bg padding">
-          <SectionHeading title="Services" />
+          <SectionHeading title="Hizmetlerim" />
           <Services />
         </section>
       </Element>
 
       <Element name="section-experiences">
         <section className="shadow-blue white-bg padding">
-          <SectionHeading title="Experience" />
+          <SectionHeading title="Deneyimlerim" />
           <Experiences />
         </section>
       </Element>
 
       <Element name="section-portfolios">
         <section className="shadow-blue white-bg padding">
-          <SectionHeading title="Portfolio" />
+          <SectionHeading title="Portföy" />
           <Portfolios />
         </section>
       </Element>

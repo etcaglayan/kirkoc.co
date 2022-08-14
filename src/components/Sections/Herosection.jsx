@@ -4,7 +4,7 @@ import { Link as ScrollLink } from "react-scroll";
 const herosectionData = {
   name: "Ümit Çağlayan Kırkoç",
   aboutMe:
-    "He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.",
+    "Kurumsal şirketlerin içerik yönetimi, içeriksel olarak güncellenmesi, UI / UX geliştirme. Sitenin tasarım aşamasından yayın aşamasına kadar takibi, mobil site ve uygulama tasarımı ve geliştirmesi gibi konularla ilgileniyorum.",
 };
 
 function Herosection() {
@@ -15,7 +15,7 @@ function Herosection() {
     >
       <div className="cta mx-auto mt-2">
         <h1 className="mt-0 mb-4">
-          I’m {herosectionData.name}
+          Ben {herosectionData.name}
           <span className="dot"></span>
         </h1>
         <p className="mb-4">{herosectionData.aboutMe}</p>
@@ -28,7 +28,7 @@ function Herosection() {
           offset={50}
           className="btn btn-default btn-lg mr-3"
         >
-          <i className="icon-grid"></i>View Portfolio
+          <i className="icon-grid"></i>Portföy
         </ScrollLink>
         <div
           className="spacer d-md-none d-lg-none d-sm-none"
@@ -43,7 +43,7 @@ function Herosection() {
           offset={50}
           className="btn btn-border-light btn-lg"
         >
-          <i className="icon-envelope"></i>Hire me
+          <i className="icon-envelope"></i>Benimle İletişime Geç!
         </ScrollLink>
       </div>
       <div className="overlay"></div>

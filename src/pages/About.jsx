@@ -14,12 +14,12 @@ function About() {
   return (
     <Layout2>
       <section className="shadow-blue white-bg padding mt-0">
-        <SectionHeading title="About Me" />
+        <SectionHeading title="Hakkımda" />
         <AboutSection />
       </section>
 
       <section className="shadow-blue white-bg padding">
-        <SectionHeading title="My skills" />
+        <SectionHeading title="Yeteneklerim" />
         <Skills />
       </section>
 

@@ -89,11 +89,11 @@ function Header({ toggleHeader, toggleHandler }) {
                     offset={-50}
                     duration={500}
                   >
-                    <i className="icon-home"></i>Home
+                    <i className="icon-home"></i>Giriş
                   </ScrollLink>
                 ) : (
                   <Link to="/">
-                    <i className="icon-home"></i>Home
+                    <i className="icon-home"></i>Giriş
                   </Link>
                 )}
               </li>
@@ -107,11 +107,11 @@ function Header({ toggleHeader, toggleHandler }) {
                     offset={-50}
                     duration={500}
                   >
-                    <i className="icon-user"></i>About
+                    <i className="icon-user"></i>Hakkımda
                   </ScrollLink>
                 ) : (
                   <Link to="/">
-                    <i className="icon-user"></i>About
+                    <i className="icon-user"></i>Hakkımda
                   </Link>
                 )}
               </li>
@@ -125,11 +125,11 @@ function Header({ toggleHeader, toggleHandler }) {
                     offset={-50}
                     duration={500}
                   >
-                    <i className="icon-bulb"></i>Services
+                    <i className="icon-bulb"></i>Hizmetlerim
                   </ScrollLink>
                 ) : (
                   <Link to="/">
-                    <i className="icon-bulb"></i>Services
+                    <i className="icon-bulb"></i>Hizmetlerim
                   </Link>
                 )}
               </li>
@@ -143,11 +143,11 @@ function Header({ toggleHeader, toggleHandler }) {
                     offset={-50}
                     duration={500}
                   >
-                    <i className="icon-graduation"></i>Resume
+                    <i className="icon-graduation"></i>Deneyimlerim
                   </ScrollLink>
                 ) : (
                   <Link to="/">
-                    <i className="icon-graduation"></i>Resume
+                    <i className="icon-graduation"></i>Deneyimlerim
                   </Link>
                 )}
               </li>
@@ -161,11 +161,11 @@ function Header({ toggleHeader, toggleHandler }) {
                     offset={-50}
                     duration={500}
                   >
-                    <i className="icon-grid"></i>Works
+                    <i className="icon-grid"></i>Portföy
                   </ScrollLink>
                 ) : (
                   <Link to="/">
-                    <i className="icon-grid"></i>Works
+                    <i className="icon-grid"></i>Portföy
                   </Link>
                 )}
               </li>
@@ -197,11 +197,11 @@ function Header({ toggleHeader, toggleHandler }) {
                     offset={-50}
                     duration={500}
                   >
-                    <i className="icon-phone"></i>Contact
+                    <i className="icon-phone"></i>İletişim
                   </ScrollLink>
                 ) : (
                   <Link to="/">
-                    <i className="icon-phone"></i>Contact
+                    <i className="icon-phone"></i>İletişim
                   </Link>
                 )}
               </li>
@@ -248,7 +248,7 @@ function Header({ toggleHeader, toggleHandler }) {
             </ul>
 
             <span className="copyright">
-              &copy; {new Date().getFullYear()} Bako Template
+              &copy; {new Date().getFullYear()} Ümit Çağlayan Kırkoç
             </span>
           </div>
         </div>

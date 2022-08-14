@@ -5,26 +5,26 @@ import Funfact from "../Items/Funfact";
 const funfactData = [
   {
     id: 1,
-    title: "Projects completed",
-    count: 157,
+    title: "Tamamlanan Projeler",
+    count: 67,
     icon: "icon-like",
   },
   {
     id: 2,
-    title: "Cup of coffee",
+    title: "İçilen Kahveler",
     count: 2765,
     icon: "icon-cup",
   },
   {
     id: 3,
-    title: "Happy customers",
-    count: 350,
+    title: "Mutlu Müşteri",
+    count: 67,
     icon: "icon-emotsmile",
   },
   {
     id: 4,
-    title: "Awards won",
-    count: 29,
+    title: "Çözülen Sorunlar",
+    count: 999,
     icon: "icon-trophy",
   },
 ];
