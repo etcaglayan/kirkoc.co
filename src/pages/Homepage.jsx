@@ -11,7 +11,6 @@ import Funfacts from "../components/Sections/Funfacts";
 import Services from "../components/Sections/Services";
 import Experiences from "../components/Sections/Experiences";
 import Portfolios from "../components/Sections/Portfolios";
-import Blogs from "../components/Sections/Blogs";
 import Contact from "../components/Sections/Contact";
 
 function Homepage() {
@@ -75,12 +74,6 @@ function Homepage() {
         <Clients />
       </Element>
 
-      <Element name="section-blogs">
-        <section className="shadow-blue white-bg padding">
-          <SectionHeading title="Recent posts" />
-          <Blogs />
-        </section>
-      </Element>
 
       <Element name="section-contact">
         <section className="shadow-blue white-bg padding">

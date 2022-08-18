@@ -5,25 +5,25 @@ const servicesData = [
   {
     id: 1,
     name: "Geliştirme",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    content: "Yazılım ürünlerinin tasarımının yapılmasını, devamlılığını ve gerektiğinde güncellemesini ",
     icon: "icon-globe",
   },
   {
     id: 2,
     name: "Tasarım",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    content: "Markalar için uçtan uca tasarımların yapılması",
     icon: "icon-chemistry",
   },
   {
     id: 3,
     name: "Danışmanlık",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    content: "Yazılımların etkin ve verimli kullanılması",
     icon: "icon-directions",
   },
   {
     id: 4,
     name: "SEO",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    content: "Web sitelerini arama motorlarının daha rahat bir şekilde anlayabilmesi",
     icon: "icon-rocket",
   },
   {
