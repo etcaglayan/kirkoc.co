@@ -24,7 +24,7 @@ const funfactData = [
   {
     id: 4,
     title: "Çözülen Sorunlar",
-    count: 999,
+    count: 2568,
     icon: "icon-trophy",
   },
 ];

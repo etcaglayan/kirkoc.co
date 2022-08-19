@@ -9,7 +9,7 @@ const aboutData = {
   birthday: "06 Temmuz 1997",
   email: "umitcaglayankirkoc@gmail.com",
   aboutMe:
-    "Ben Ümit Çağlayan Kırkoç, İstanbul'da Frontend Developer olarak çalışıyorum. 6 yıllık sektör geçmişimde çok başarılı projeler yayınladım. Web sitelerinin oluşturulması, düzenlemenlesi ve yayınlanmasında deneyimliyim.",
+    "Ben Ümit Çağlayan Kırkoç, İstanbul'da Frontend Developer olarak çalışıyorum. 6 yıllık sektör geçmişimde çok başarılı projeler yayınladım. Web sitelerinin oluşturulması, düzenlenmesi ve yayınlanmasında deneyimliyim.",
 };
 
 function About() {

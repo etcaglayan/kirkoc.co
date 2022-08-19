@@ -28,14 +28,14 @@ const servicesData = [
   },
   {
     id: 5,
-    name: "Copy Write",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    name: "İçerik Yazarlığı",
+    content: "Web sitelerinin içeriklerinin yazılması.",
     icon: "icon-note",
   },
   {
     id: 6,
     name: "Destek",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    content: "Proje tamamlandıktan sonra yapılabilecek tüm geliştirmeler.",
     icon: "icon-bubbles",
   },
 ];

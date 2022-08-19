@@ -7,7 +7,7 @@ const experiencesData = [
     year: "Ağu 2021 - Devam",
     degree: "Senior Web UI Developer/Specialist - Etiya",
     content:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget dolor aenean massa.",
+      "",
   },
   {
     id: 2,

@@ -4,7 +4,7 @@ import Skill from "../Items/Skill";
 
 const skillData = {
   skillContent:
-    "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right at the coast of the Semantics",
+    "Web projelerinin geliştirilmesinde kullandığım ve deneyim sahibi olduğum ana başlıklardan sizlere bahsetmek isterim. Deneyimlerim genellikle Frontend, Backend ve Tasarım alanlarında.",
   progressData: [
     {
       id: 1,
