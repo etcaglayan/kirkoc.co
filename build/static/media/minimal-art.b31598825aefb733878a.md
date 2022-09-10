@@ -4,9 +4,9 @@ author: Bake Doe
 link: https://envato.com
 ---
 
-### Creative Art
+### Minimal Art
 
-![Boost your post for increasing sales](/images/portfolio/flypgs.jpg)
+![Boost your post for increasing sales](/images/portfolio/6.jpg)
 
 #### Overview
 

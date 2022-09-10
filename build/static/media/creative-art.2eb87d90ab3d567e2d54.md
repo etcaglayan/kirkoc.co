@@ -6,7 +6,7 @@ link: https://envato.com
 
 ### Creative Art
 
-![Boost your post for increasing sales](/images/portfolio/flypgs.jpg)
+![Boost your post for increasing sales](/images/portfolio/1.jpg)
 
 #### Overview
 

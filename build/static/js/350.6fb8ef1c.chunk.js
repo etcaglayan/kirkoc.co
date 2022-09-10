@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbako=self.webpackChunkbako||[]).push([[350],{8350:function(a,e,b){a.exports=b.p+"static/media/creative-bulb.aaa1dcb4178d95736d30.md"}}]);

@@ -29,7 +29,7 @@ const allData = [
     id: 1,
     name: "Creative Art",
     category: ["creative"],
-    image: "images/portfolio/1.jpg",
+    image: "images/portfolio/flypgs.jpg",
     slug: "creative-art",
   },
   {
