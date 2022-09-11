@@ -27,37 +27,37 @@ const filters = [
 const allData = [
   {
     id: 1,
-    name: "Creative Art",
+    name: "Flypgs",
     category: ["creative"],
     image: "images/portfolio/flypgs.jpg",
     slug: "creative-art",
   },
   {
     id: 2,
-    name: "Apple USB",
+    name: "KKTCELL",
     category: ["creative", "design"],
-    image: "images/portfolio/2.jpg",
+    image: "images/portfolio/kktcell.jpg",
     slug: "apple-usb",
   },
   {
     id: 3,
     name: "Work Space",
     category: ["branding"],
-    image: "images/portfolio/3.jpg",
+    image: "images/portfolio/macfit.jpg",
     slug: "work-space",
   },
   {
     id: 4,
     name: "Creative Bulb",
     category: ["creative"],
-    image: "images/portfolio/4.jpg",
+    image: "images/portfolio/hayatsu.jpg",
     slug: "creative-bulb",
   },
   {
     id: 5,
     name: "Iphone 8",
     category: ["branding", "art"],
-    image: "images/portfolio/5.jpg",
+    image: "images/portfolio/tavukdunyasi.jpg",
     slug: "iphone-8",
   },
   {
